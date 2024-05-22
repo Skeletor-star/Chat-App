@@ -10,7 +10,7 @@ MongoDB database server running locally.
 Clone this repository
 
 ```bash
-
+https://github.com/Skeletor-star/Chat-App.git
 ```
 Or Install dependencies:
 ```bash
@@ -21,4 +21,4 @@ Start the application:
 ```bash
  npm run start
  ```
-Open your web browser and navigate to http://localhost:3000 (or the port you specified in the configuration). You should see the to-do list application interface where you can add, view, and manage your tasks.
+Open your web browser and navigate to http://localhost:5000 (or the port you specified in the configuration). You should see the Chat-App application interface where you can chat with your colleagues.
